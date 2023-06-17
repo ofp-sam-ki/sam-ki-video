@@ -1,0 +1,6 @@
+{
+  "appId": "com.fraunhofer.ipa.app",
+  "appName": "SAM-KI: Video",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
